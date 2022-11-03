@@ -3,7 +3,7 @@ package main
 import (
 	"html/template"
 	"path/filepath"
-	"snippetbox.KazbekTutinbay.net/internal/models"
+	"snippetbox.TogmanOv.net/internal/models"
 	"time"
 )
 
