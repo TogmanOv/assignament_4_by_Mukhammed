@@ -11,7 +11,7 @@ import (
 	"log"
 	"net/http"
 	"os"
-	"snippetbox.KazbekTutinbay.net/internal/models"
+	"snippetbox.TogmanOv.net/internal/models"
 	"time"
 )
 
